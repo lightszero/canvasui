@@ -1,6 +1,0 @@
-D:\git\h5ui\canvas2017\bin\TypeScriptHTMLApp1.dll.config
-D:\git\h5ui\canvas2017\bin\TypeScriptHTMLApp1.dll
-D:\git\h5ui\canvas2017\bin\TypeScriptHTMLApp1.pdb
-D:\git\h5ui\canvas2017\obj\Debug\canvas2017.csprojResolveAssemblyReference.cache
-D:\git\h5ui\canvas2017\obj\Debug\TypeScriptHTMLApp1.dll
-D:\git\h5ui\canvas2017\obj\Debug\TypeScriptHTMLApp1.pdb
